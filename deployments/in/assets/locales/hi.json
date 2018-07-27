@@ -15,6 +15,7 @@
     "kolkata": "Kolkata"
   },
 
+  
   "overview_title": "Project overview",
 
   "facebook_title": "Report with Facebook",
@@ -97,3 +98,169 @@
   "privacy_policy_content": "<p class='header'>RiskMap.in Privacy Policy</p><p>Welcome to RiskMap.in, a website that collects and shares flood information from residents and government agencies, helping to reduce risk during flood events. RiskMap.in is a project of the Urban Risk Lab at the Massachusetts Institute of Technology ('we,' 'us,' 'our,' 'ours'). We are committed to respecting the privacy of users who access the RiskMap.in website (the 'Site,' which includes all pages within the RiskMap.in domain). <p class='header'>Web Server Logs</p><p>When you visit the Site, including for submission of flood reports, our web server may record the following information in its server log: <ul> <li>your IP Address <li>the URLs you have requested to access, <li>the dates and methods of requests, <li>the status code of your requests, <li>URLs of pages that referred you to the Site, <li>number of bytes transferred, <li>your web browser and operating system platform, <li>your location (if you provide it), <li>your preferred language (based on browser preference), and <li>your social messaging account username or user identification number </ul>We use server log information to help diagnose problems with our server and to administer our website by identifying which parts of the Site are most heavily used. We also use this information to tailor Site content to user needs and to generate aggregate statistical reports. Web server logs are retained on a temporary basis, during which time their contents are accessible to Site administrators, and then deleted completely from our systems. Unless required by legal process, we do not link IP addresses to any personally identifiable information. This means that user sessions will be tracked by IP address, but the user’s identity will remain anonymous. <p>We ordinarily do not disclose to third parties site usage by individual IP addresses, but we may do so in very limited circumstances to comply with law or legal process or when working with consultants assisting us with fixing or improving the Site or monitoring and improving the security of our network.<p class='header'>User-Generated Content</p><p>User-generated content is collected via flood report cards. You may request a flood report card via the RiskMap.in social messaging bot. You do not need to register to use flood report cards, although information you provide, including your social media username or ID number, is used to provide this service and contact you to confirm receipt of your report card. User-generated content will be available for all Site visitors to view and will identify you as the poster by the username from your social messaging account. <p>Any and all user-generated content that you post to the Site is publicly available to anyone who visits the Site, so do not post any information you do not want generally known to the public. More information about information collected through report cards can be found in our User Agreement. <p class='header'>Research Access to Data</p><p>In addition to providing flood information to residents, government and disaster-response agencies, RiskMap.in facilitates academic research into risk reduction. Any content you post to the Site may be used for academic research. <p class='header'>Programming Analytics</p><p>In order to refine the resources on offer through the Site and to optimize RiskMap.in programming, RiskMap.in may elect to conduct internal analytics of content submitted by users. Any such internal analytics will be conducted on an anonymized set of user-generated content. <p class='header'>Google Analytics</p><p>We use Google Analytics software to perform Site usage analytics. Google Analytics collects anonymous information from users to help us track Site usage and referrals from other websites. These data are used primarily to optimize the website experience for our visitors, but we may also use the data to assist us in marketing the Site. <p>Information collected and processed by Google Analytics includes the user’s IP address, network location, and geographic location. Google Analytics acquires all its information directly from the user, by installing a cookie (see below) on JavaScript-enabled computers. The Site does not share any information it collects with Google, and Google does not collect any personally identifiable information. <p class='header'>Cookies</p><p>Cookies are unique bits of computer data that many major websites will transfer to your computer the first time that you visit. Cookies are stored on your hard drive and may be later accessed by the website to track prior usage. As noted above, Google Analytics will install a cookie on the hard drives of Site visitors. <p class='header'>Disclosure To The Third Parties</p><p>We will not sell, lend, or disclose to third parties any personally identifiable information we collect, except as discussed in this Policy or required by law or legal process. We may disclose information to MIT employees, fellows, students, consultants and agents who have a legitimate need to know the information for the purpose of fixing or improving the Site and monitoring and improving the security of our network. We may also disclose this information when special circumstances call for it, such as when disclosure is required by law or legal process or when disclosure is, in our judgement, necessary to protect our legal rights, including intellectual property rights. <p class='header'>Other Websites</p><p>This Site may contain links to other web resources, including websites of organizations other than the Massachusetts Institute of Technology. The websites to which the Site links may also install cookies on your computer, log your access to their web pages, or collect user-identifying information directly from you, once you proceed to those sites. We are not responsible for the privacy practices of other sites to which the Site links. The privacy policies on those sites, if any, will govern your use of the sites. <p class='header'>Data Security</p><p>We have in place physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot completely guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet. <p class='header'>Notification Of Changes In The Privacy Policy</p><p>We will review our security measures and Privacy Policy on a periodic basis. We may change our Privacy Policy from time to time based on those reviews or because we add or change services or features. If we change our Privacy Policy, we will post it on the Site. We encourage you to review our Privacy Policy on a regular basis. <p>If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact privacy@riskmap.in or Urban Risk Lab, School of Architecture and Planning, 77 Massachusetts Avenue, Cambridge 02139, Massachusetts, United States. <p class='header'>Effective Date</p><p>This Privacy Policy is in effect as of <a name='anchor8'></a>7<sup>th</sup> February 2017."
 
   }
+
+
+
+{Hindi_Version}
+{
+  "welcome_msg": "{{title}} में आपका स्वागत है",
+  "display_env": "वर्तमान वातावरण: {{env}}",
+  "reports_msg": "पिछले {{h}} घंटों में {{r}} रिपोर्ट प्राप्त हुई"
+
+  "partners_label_implementing": "कार्यान्वयन भागीदार",
+  "partners_label_data": "डेटा पार्टनर",
+  "partners_label_project": "प्रोजेक्ट पार्टनर्स",
+  "partners_label_support": "द्वारा समर्थित",
+
+  "instance_regions": {
+    "चेन्नई": "चेन्नई"
+    "मुंबई": "मुंबई",
+    "बैंगलोर": "बैंगलोर",
+    "कोलकाता": "कोलकाता"
+  },
+
+"overview_title": "परियोजना सिंहावलोकन",
+
+  "facebook_title": "फेसबुक के साथ रिपोर्ट करें"
+  "facebook_step1": "फेसबुक मैसेंजर पर Riskmap.in के लिए खोजें"
+  "facebook_step2": "प्रारंभ बटन पर क्लिक करें और बाढ़ स्थान, बाढ़ गहराई, फोटो अपलोड करने और विवरण इनपुट करने के लिए निर्देशों का पालन करें।",
+  "facebook_step3": "आप दिए गए लिंक के माध्यम से मानचित्र पर अपनी रिपोर्ट देख सकते हैं। अद्यतित बाढ़ की जानकारी के लिए Riskmap.in देखें।"
+
+  "telegram_title": "टेलीग्राम के साथ रिपोर्ट करें"
+  "telegram_step1": "पाठ / बाढ़ @RiskMapBot।",
+  "telegram_step2": "लिंक खोलें और बाढ़ स्थान इनपुट करने के लिए निर्देशों का पालन करें, फोटो अपलोड करें, और विवरण।"
+  "telegram_step3": "आप दिए गए लिंक के माध्यम से मानचित्र पर अपनी रिपोर्ट देख सकते हैं। अद्यतित बाढ़ की जानकारी के लिए RiskMap.in देखें।"
+
+
+  "twitter_title": "ट्विटर के साथ रिपोर्ट करें"
+  "twitter_step1": "@riskmapindia को एक प्रत्यक्ष संदेश भेजें"
+  "twitter_step2": "@riskmapindia आपको रिपोर्ट सबमिट करने के लिए एक बार का लिंक भेजेगा"
+  "twitter_step3": "लिंक खोलें और बाढ़ स्थान इनपुट करने के लिए निर्देशों का पालन करें, फोटो अपलोड करें, और विवरण।"
+  "twitter_step4": "रिपोर्ट के सफल सबमिशन पर, @ रिस्कमैपिडिया आपको आपकी रिपोर्ट के लिंक के साथ एक उत्तर भेजेगा"
+  "twitter_step5": "अद्यतित बाढ़ की जानकारी के लिए RiskMap.in देखें।",
+
+  "add_report": "बाढ़ रिपोर्ट करें"
+  "hint_facebook": "फेसबुक मैसेंजर",
+  "Hint_twitter": "ट्विटर",
+  "Hint_telegram": "टेलीग्राम",
+
+  "reports_stats": "पिछले {hourplaceholder} घंटों में {reportsplaceholder} रिपोर्ट प्राप्त हुई",
+
+
+
+"web_menu": {
+    "tab_names": {
+      "मानचित्र": "मानचित्र",
+      "रिपोर्ट": "रिपोर्ट"
+      "जानकारी": "जानकारी"
+    }
+  },
+
+  "report_info": {
+    "msg_text": "% 20flood% 20reports% 20on% 20riskmap% 2Eus जांचें",
+    "water_depth": "पानी की गहराई",
+    "स्रोत": "स्रोत",
+    "flagReport_title": "रिपोर्ट अनुचित के रूप में ध्वजांकित करें"
+    "flagReport_button": "हमें और बताएं",
+    "flagReport_email": "riskmapindia@gmail.com",
+    "share_header": "इस रिपोर्ट को साझा करें"
+  },
+
+
+{
+  "welcome_msg": "{{title}} में आपका स्वागत है",
+  "display_env": "वर्तमान वातावरण: {{env}}",
+  "reports_msg": "पिछले {{h}} घंटों में {{r}} रिपोर्ट प्राप्त हुई"
+
+  "partners_label_implementing": "कार्यान्वयन भागीदार",
+  "partners_label_data": "डेटा पार्टनर",
+  "partners_label_project": "प्रोजेक्ट पार्टनर्स",
+  "partners_label_support": "द्वारा समर्थित",
+
+  "instance_regions": {
+    "चेन्नई": "चेन्नई"
+    "मुंबई": "मुंबई",
+    "बैंगलोर": "बैंगलोर",
+    "कोलकाता": "कोलकाता"
+  },
+
+"overview_title": "परियोजना सिंहावलोकन",
+
+  "facebook_title": "फेसबुक के साथ रिपोर्ट करें"
+  "facebook_step1": "फेसबुक मैसेंजर पर Riskmap.in के लिए खोजें"
+  "facebook_step2": "प्रारंभ बटन पर क्लिक करें और बाढ़ स्थान, बाढ़ गहराई, फोटो अपलोड करने और विवरण इनपुट करने के लिए निर्देशों का पालन करें।",
+  "facebook_step3": "आप दिए गए लिंक के माध्यम से मानचित्र पर अपनी रिपोर्ट देख सकते हैं। अद्यतित बाढ़ की जानकारी के लिए Riskmap.in देखें।"
+
+  "telegram_title": "टेलीग्राम के साथ रिपोर्ट करें"
+  "telegram_step1": "पाठ / बाढ़ @RiskMapBot।",
+  "telegram_step2": "लिंक खोलें और बाढ़ स्थान इनपुट करने के लिए निर्देशों का पालन करें, फोटो अपलोड करें, और विवरण।"
+  "telegram_step3": "आप दिए गए लिंक के माध्यम से मानचित्र पर अपनी रिपोर्ट देख सकते हैं। अद्यतित बाढ़ की जानकारी के लिए RiskMap.in देखें।"
+
+
+  "twitter_title": "ट्विटर के साथ रिपोर्ट करें"
+  "twitter_step1": "@riskmapindia को एक प्रत्यक्ष संदेश भेजें"
+  "twitter_step2": "@riskmapindia आपको रिपोर्ट सबमिट करने के लिए एक बार का लिंक भेजेगा"
+  "twitter_step3": "लिंक खोलें और बाढ़ स्थान इनपुट करने के लिए निर्देशों का पालन करें, फोटो अपलोड करें, और विवरण।"
+  "twitter_step4": "रिपोर्ट के सफल सबमिशन पर, @ रिस्कमैपिडिया आपको आपकी रिपोर्ट के लिंक के साथ एक उत्तर भेजेगा"
+  "twitter_step5": "अद्यतित बाढ़ की जानकारी के लिए RiskMap.in देखें।",
+
+  "add_report": "बाढ़ रिपोर्ट करें"
+  "hint_facebook": "फेसबुक मैसेंजर",
+  "Hint_twitter": "ट्विटर",
+  "Hint_telegram": "टेलीग्राम",
+
+  "reports_stats": "पिछले {hourplaceholder} घंटों में {reportsplaceholder} रिपोर्ट प्राप्त हुई",
+
+
+
+"web_menu": {
+    "tab_names": {
+      "मानचित्र": "मानचित्र",
+      "रिपोर्ट": "रिपोर्ट"
+      "जानकारी": "जानकारी"
+    }
+  },
+
+  "report_info": {
+    "msg_text": "% 20flood% 20reports% 20on% 20riskmap% 2Eus जांचें",
+    "water_depth": "पानी की गहराई",
+    "स्रोत": "स्रोत",
+    "flagReport_title": "रिपोर्ट अनुचित के रूप में ध्वजांकित करें"
+    "flagReport_button": "हमें और बताएं",
+    "flagReport_email": "riskmapindia@gmail.com",
+    "share_header": "इस रिपोर्ट को साझा करें"
+  },
+
+
+"map_helper": "शहर का चयन करें:",
+
+  "info_content": {
+    "परिचय": "RiskMap.in वास्तविक समय में बाढ़ के बारे में जानकारी इकट्ठा करने, क्रमबद्ध करने और प्रदर्शित करने के लिए सोशल मीडिया की शक्ति का उपयोग करता है।"
+    "पी 1": "RiskMap.in एक परियोजना है जो एमआईटी में शहरी जोखिम लैब द्वारा दक्षिण और दक्षिणपूर्व एशिया में आपातकालीन प्रतिक्रिया और आपदा प्रबंधन में आपदा प्रबंधन के लिए एक मुक्त, पारदर्शी मंच के रूप में शुरू की गई है।"
+    "पी 2": "प्लेटफ़ॉर्म" लोगों को सबसे अच्छा सेंसर "प्रतिमान मानता है, जहां पुष्टि की गई रिपोर्ट सीधे उपयोगकर्ताओं से सड़क स्तर पर एकत्र की जाती है जो महंगी और समय लेने वाली डेटा प्रोसेसिंग को हटा देती है। यह ढांचा सटीक, असली- समय डेटा जो तुरंत उपयोगकर्ताओं और पहले उत्तरदाताओं के लिए उपलब्ध कराया जाता है। "
+    "पी 3": "RiskMap.in विशेष रूप से विकसित कॉग्नीसिटी ओपन सोर्स सॉफ्टवेयर का उपयोग करके आंकड़ों को इकट्ठा, प्रकार और दृश्यमान करता है - आपातकालीन प्रतिक्रिया और आपदा प्रबंधन के लिए एक एंटरप्राइज़-स्तरीय मंच - सामाजिक और डिजिटल मीडिया के शोर को निवासियों के लिए महत्वपूर्ण जानकारी में बदलने के लिए, समुदायों, और सरकारी एजेंसियां। "
+    "पी 4": "नोट: किसी भी आपात स्थिति के लिए जिसके लिए तत्काल सहायता की आवश्यकता है कृपया पुलिस - 100, फायर - 101, या एम्बुलेंस - 108 को कॉल करें। नागरिक शिकायतों को पंजीकृत करने के लिए ग्रेटर चेन्नई कॉर्पोरेशन को 1 9 13 में कॉल करें"
+
+    "शर्तेंपॉप": "उपयोगकर्ता अनुबंध और गोपनीयता नीति",
+    "मैप क्रेडिट्स": "बेसमैप टाइल्स"
+    "mapImproveLink": "बेसमेप में सुधार करें",
+    "ब्राउजरस्टैक": "परीक्षण <a href='https://www.browserstack.com 'target='_blank'> ब्राउज़रस्टैक </a> द्वारा समर्थित है।",
+    "यूएसएआईडी": "अमेरिकी कंपनी के अंतर्राष्ट्रीय विकास के माध्यम से अमेरिकी लोगों के समर्थन के साथ यह वेबसाइट संभव हो गई थी। यह आधिकारिक यूएसएआईडी या यूएस सरकार की वेबसाइट नहीं है। इस वेबसाइट की सामग्री लेखकों की एकमात्र ज़िम्मेदारी है और करते हैं अमेरिकी सरकार के यूएसएआईडी के विचारों को जरूरी नहीं दर्शाते हैं। "
+  },
+
+  "किंवदंती": {
+    "शीर्षक": "किंवदंती",
+    "flood_report": "बाढ़ रिपोर्ट"
+    "पेड़": "डाउन पेड़"
+    "ब्लॉक": "ड्र्रेन अवरुद्ध",
+    "क्षति": "मरम्मत की जरूरत है"
+    "शक्ति": "बिजली आउटेज",
+    "वर्षा": "कुल वर्षा"
+    "flood_depth": "बाढ़ गहराई: {{flood_depth}} सेमी",
+    "Map_infrastructure": "बुनियादी सुविधा",
+    "map_reports": "रिपोर्ट"
+    "map_region": "क्षेत्र"
+  },
+
+  "user_agreement_title": "उपयोगकर्ता अनुबंध",
+  "user_agreement_content": "<p class = 'header'> RiskMap.in उपयोगकर्ता अनुबंध </ p> <p> यह अनुबंध आपकी पहुंच और RiskMap.in के उपयोग और RiskMap.in की कार्यक्षमता और सामग्री की जानकारी और सामग्री को नियंत्रित करता है। RiskMap.in का उपयोग करके या किसी भी जानकारी टेक्स्ट, लिंक, ग्राफिक्स, फोटो, वीडियो या अन्य सामग्री (सामग्री) को RiskMap.in में योगदान करके, आप इस समझौते से बाध्य होने के लिए सहमत हैं। <p class = 'header'> 1। RiskMap.in के बारे में </ p> <p> 1.1 RiskMap.in मैसाचुसेट्स इंस्टीट्यूट ऑफ टेक्नोलॉजी (एमआईटी) में शहरी जोखिम लैब की एक परियोजना है और इसे पैसिफ़िक आपदा केंद्र (पीडीसी) और बदन नैशनल पेनांगगुलनंग बेनकाना के सहयोग से संचालित किया जाता है। (बीएनपीबी)। एमआईटी, पीडीसी और बीएनपीबी को यहां सामूहिक रूप से "हम" या "हम" के रूप में संदर्भित किया जाता है। RiskMap.in को यूएसएआईडी द्वारा समर्थित किया जाता है। <P> 1.2 RiskMap.in उपयोगकर्ताओं से बाढ़ के मानचित्र को बाढ़ करने के लिए बाढ़ रिपोर्ट एकत्र करता है। RiskMap.in निवासियों और निर्णय निर्माताओं को बेहतर प्रतिक्रिया देने में मदद करने के लिए वास्तविक समय में बाढ़ के स्थानों पर सर्वोत्तम जानकारी प्रदान करना और साझा करना है। ओ बाढ़ <p> 1.3 जबकि हमारा लक्ष्य है, RiskMap.in पर सामग्री विश्वसनीय नहीं हो सकती है। हम पूर्ण और सटीक जानकारी प्रदान करने के लिए योगदानकर्ताओं पर भरोसा करते हैं, लेकिन RiskMap.in पर पोस्ट की गई सामग्री की पूर्णता, सटीकता या विश्वसनीयता का प्रतिनिधित्व या गारंटी नहीं दे सकते हैं। हम बाढ़ रिपोर्ट सामग्री की शुद्धता की पुष्टि करने के लिए कार्रवाई नहीं करते हैं। इसलिए, RiskMap.in पर बाढ़ के स्थानों पर सामग्री पर कोई भी उपयोग या निर्भरता, आपके जोखिम पर है। <पी वर्ग = 'हेडर'> 2। बाढ़ रिपोर्ट </ p> <p> 2.1 आप RiskMap.in बाढ़ रिपोर्ट कार्ड के माध्यम से बाढ़ की रिपोर्ट कर सकते हैं। सामाजिक संदेश के माध्यम से एक बार-लिंक के लिए RiskMap.in स्वचालित प्रोग्राम 'बीओटी' पूछकर रिपोर्ट कार्ड से अनुरोध किया जा सकता है। RiskMap.in के माध्यम से आपके द्वारा सबमिट की गई बाढ़ रिपोर्ट <a href=https://riskmap.in/map> https://riskmap.in/map </a> पर सार्वजनिक रूप से उपलब्ध मानचित्र में जोड़ दी गई है। <p> 2.2 बाढ़ रिपोर्ट में निम्न डेटा शामिल हो सकता है, जो सार्वजनिक रूप से साझा किए जाते हैं: <ul> <li> रिपोर्ट के समय आपका स्थान <li> सामाजिक संदेश खाता उपयोगकर्ता नाम या उपयोगकर्ता पहचान संख्या </ ul> <p> 2.3 जोखिम मैप .in किसी भी समय और किसी भी कारण से RiskMap.in साइट से किसी भी बाढ़ रिपोर्ट को अस्वीकार या हटा सकता है। <पी वर्ग = 'हेडर'> 3। बाढ़ रिपोर्ट सामग्री </ p> <p> 3.1 आप RiskMap.in को प्रदान की जाने वाली किसी भी सामग्री के लिए पूरी तरह उत्तरदायी हैं। कॉपीराइट धारक से स्पष्ट अनुमति के बिना, आपको फ़ोटो सहित किसी अन्य व्यक्ति के स्वामित्व वाली सामग्री को कभी भी नहीं जोड़ना चाहिए। बाढ़ रिपोर्ट जमा करके, आप प्रतिनिधित्व करते हैं कि आपके पास बाढ़ रिपोर्ट की सामग्री जमा करने के लिए आवश्यक सभी अधिकार, लाइसेंस, सहमति और अनुमतियां हैं और हमें नीचे वर्णित लाइसेंस प्रदान करने के लिए अनुदान और अधिकृत करने के लिए अधिकृत हैं। <p> 3.2 हम आपके द्वारा बाढ़ रिपोर्ट में सबमिट की गई सामग्री के स्वामित्व का दावा नहीं करते हैं, लेकिन सबमिट करके
